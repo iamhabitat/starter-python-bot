@@ -14,3 +14,4 @@ config:
     default: not secret though
 screenshots:
   - screenshot: images/screenshot1.png
+  
